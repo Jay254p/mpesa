@@ -74,7 +74,7 @@
     <div class="container d-flex justify-content-center">
       <div class="card mt-5 px-3 py-4">
         <div class="d-flex flex-row justify-content-around">
-          <div class="mpesa"><span>Mpesa </span></div>
+          <div class="mpesa"><span>Mpesa Now</span></div>
           <div><span>Paypal</span></div>
           <div><span>Card</span></div>
         </div>
